@@ -3,24 +3,9 @@
 const ASSETS = {
   "images": [
     {
-      "filename": "ChatGPT Image Aug 1, 2026, 06_55_45 PM.png",
-      "url": "images/ChatGPT%20Image%20Aug%201%2C%202026%2C%2006_55_45%20PM.png",
-      "name": "ChatGPT Image Aug 1, 2026, 06 55 45 PM"
-    },
-    {
       "filename": "ChatGPT Image Aug 12, 2026, 09_06_07 AM.png",
       "url": "images/ChatGPT%20Image%20Aug%2012%2C%202026%2C%2009_06_07%20AM.png",
       "name": "ChatGPT Image Aug 12, 2026, 09 06 07 AM"
-    },
-    {
-      "filename": "ChatGPT Image Jul 23, 2026, 09_46_33 AM.png",
-      "url": "images/ChatGPT%20Image%20Jul%2023%2C%202026%2C%2009_46_33%20AM.png",
-      "name": "ChatGPT Image Jul 23, 2026, 09 46 33 AM"
-    },
-    {
-      "filename": "ChatGPT Image Jul 27, 2026, 08_12_21 PM.png",
-      "url": "images/ChatGPT%20Image%20Jul%2027%2C%202026%2C%2008_12_21%20PM.png",
-      "name": "ChatGPT Image Jul 27, 2026, 08 12 21 PM"
     },
     {
       "filename": "graphic1.png",
@@ -41,21 +26,6 @@ const ASSETS = {
       "filename": "graphic4.png",
       "url": "images/graphic4.png",
       "name": "Graphic4"
-    },
-    {
-      "filename": "WhatsApp Image 2026-07-30 at 00.12.02.jpeg",
-      "url": "images/WhatsApp%20Image%202026-07-30%20at%2000.12.02.jpeg",
-      "name": "WhatsApp Image 2026 07 30 At 00.12.02"
-    },
-    {
-      "filename": "WhatsApp Image 2026-07-30 at 00.12.03.jpeg",
-      "url": "images/WhatsApp%20Image%202026-07-30%20at%2000.12.03.jpeg",
-      "name": "WhatsApp Image 2026 07 30 At 00.12.03"
-    },
-    {
-      "filename": "WhatsApp Image 2026-08-13 at 13.19.01.jpeg",
-      "url": "images/WhatsApp%20Image%202026-08-13%20at%2013.19.01.jpeg",
-      "name": "WhatsApp Image 2026 08 13 At 13.19.01"
     }
   ],
   "videos": [
