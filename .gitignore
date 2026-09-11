@@ -1,0 +1,10 @@
+node_modules/
+dist/
+.DS_Store
+Thumbs.db
+*.log
+.env
+.env.*
+# Oversized videos (GitHub max 100MB per file) — compress or host elsewhere, then remove these lines
+public/videos/edit 2.mp4
+public/videos/edit 3.mp4

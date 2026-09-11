@@ -1,0 +1,47 @@
+{
+  "asset": { "version": "2.0", "generator": "Priya Portfolio Sample" },
+  "scenes": [{ "nodes": [0] }],
+  "scene": 0,
+  "nodes": [{ "mesh": 0 }],
+  "meshes": [{
+    "primitives": [{
+      "attributes": { "POSITION": 1 },
+      "indices": 0,
+      "mode": 4,
+      "material": 0
+    }]
+  }],
+  "materials": [{
+    "pbrMetallicRoughness": {
+      "baseColorFactor": [0.486, 0.227, 0.929, 1.0],
+      "metallicFactor": 0.1,
+      "roughnessFactor": 0.4
+    }
+  }],
+  "accessors": [
+    {
+      "bufferView": 0,
+      "componentType": 5123,
+      "count": 36,
+      "type": "SCALAR",
+      "max": [7],
+      "min": [0]
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 8,
+      "type": "VEC3",
+      "max": [0.5, 0.5, 0.5],
+      "min": [-0.5, -0.5, -0.5]
+    }
+  ],
+  "bufferViews": [
+    { "buffer": 0, "byteOffset": 0, "byteLength": 72, "target": 34963 },
+    { "buffer": 0, "byteOffset": 72, "byteLength": 96, "target": 34962 }
+  ],
+  "buffers": [{
+    "byteLength": 168,
+    "uri": "data:application/octet-stream;base64,AAABAAIAAAACAAMABAAGAAUABgAHAAEABAAFAAEABwAGAAcAAgADAAAAAwAGAAQABAADAAIABwAFAAAAAgAFAAcAPwAAAD8AAAAAAAAAAD8AAAA/AAAAAAAAAAAAAAA/AAAAPwAAAAAAAAA/AAAAPwAAAAAAAAA/AAAAAD8AAAA/AAAAPwAAAD8AAAA/AAAAPwAAAD8AAAAA"
+  }]
+}
